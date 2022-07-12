@@ -21,7 +21,7 @@
 | priority_queue | [우선순위 큐](./priority_queue.md)|
 | Sort | [정렬](./Sort.md)|
 | Two Pointer | [수학](./Math.md)|
-| Binary Search| [수학](./Binary_Search.md)|
+| Binary Search| [이진 탐색](./Binary_Search.md)|
 | Greedy | [그리디](./Greedy.md)|
 | Backtracking | [백트래킹](./Backtracking.md)|
 | Divide and Conquer | [분할정복](./Divide_and_Conquer.md)|
