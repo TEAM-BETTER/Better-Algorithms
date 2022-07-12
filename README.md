@@ -10,7 +10,7 @@
 | Queue | [큐](./Queue.md)|
 | Deque | [덱](./Deque.md)|
 | Tree  | [트리](./Tree.md)|
-| Graph | [그래프](./Greph.md)|
+| Graph | [그래프](./Graph.md)|
 | BFS / DFS | [BFS / DFS](./BFS_DFS.md)|
 | Hash | [해시](./Hash.md)|
 | Recursion | [재귀](./Recursion.md)|
